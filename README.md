@@ -67,6 +67,7 @@ My name is <b>Vadim</b> and I'm <b>web-developer</b>!
 
 ## 🎯 Projects:
 <br />
+
 | Title        | Type        | Technologies  |
 | ------------ | ----------- | ------------- |
 | [Slider plugin](https://github.com/Vadim-Losenkov/slider-plugin) | <div align='center' title='Commercial'>JS 💰</div> | HTML, JS, SASS/SCSS, gulp |
