@@ -67,11 +67,13 @@ My name is <b>Vadim</b> and I'm <b>web-developer</b>!
 
 ## 🎯 Projects:
 <br />
-
 | Title        | Type        | Technologies  |
 | ------------ | ----------- | ------------- |
-| [Cypher](https://vadim-losenkov.ru/cypher) | <div align='center' title='Commercial'>Landing 💰</div> | HTML, JS, SASS/SCSS, gulp, Figma |
+| [Slider plugin](https://github.com/Vadim-Losenkov/slider-plugin) | <div align='center' title='Commercial'>JS 💰</div> | HTML, JS, SASS/SCSS, gulp |
+| [Filter plugin](https://github.com/Vadim-Losenkov/filter-plugin) | <div align='center' title='Commercial'>JS 💰</div> | HTML, JS, SASS/SCSS, gulp |
 | [Resume](https://vadim-losenkov.ru/) | <div align='center' title='Private'>SPA 🎓</div>   | HTML, JS, SASS/SCSS, gulp  |
+| [Karavan](https://vadim-losenkov.ru/karavan) | <div align='center' title='Commercial'>ECommerce 💰</div> | HTML, JS, SASS/SCSS, gulp, Figma |
+| [design-repair](https://vadim-losenkov.ru/design-repair) | <div align='center' title='Commercial'>ECommerce 💰</div> | HTML, JS, SASS/SCSS, gulp, Figma |
 <br />
 
 ## 🔎 How to reach me:
