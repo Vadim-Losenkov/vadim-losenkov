@@ -19,7 +19,7 @@ My name is <b>Vadim</b> and I'm <b>web-developer</b>!
 <br />
 
 <div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=vadimlosenkov&layout=compact&theme=tokyonight&custom_title=time&hide_border=true&cache_seconds=1801' alt='Languages over last 7 days ' align='center' />
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=vadimlosenkov&theme=tokyonight&hide_border=true' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
 <div align='center'>
