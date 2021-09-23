@@ -41,7 +41,6 @@ My name is <b>Vadim</b> and I'm <b>web-developer</b>!
 <div align='center'>
     <img src='img/icons/Less.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp;
     <img src='img/icons/php-1.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/jquery-1.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp;
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
