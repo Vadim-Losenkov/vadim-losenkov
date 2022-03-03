@@ -26,8 +26,6 @@ My name is <b>Vadim</b> and I'm <b>web-developer</b>!
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-losenkov&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1801' alt='Languages over last 7 days ' align='center' />
 </div>
 <br />
-
-
 ⚒ **The main stack of technologies I use:**
 <div>
     <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
